@@ -4,7 +4,7 @@ import Tree_right from "../images/tree-right.png";
 import Gate_right from "../images/gate-right.png";
 import Gate_left from "../images/gate-left.png";
 import Grass from "../images/grass.png";
-import "../style/header.css";
+import "../styles/header.css";
 
 
 const Header = () => {

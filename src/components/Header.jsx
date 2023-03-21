@@ -9,7 +9,7 @@ import "../styles/header.css";
 
 const Header = () => {
 
-    function f() {
+    function parallaxScroll() {
         let value = window.scrollY;
         let text = document.getElementsByClassName("text")[0];
         let treeLeft  = document.getElementsByClassName("tree-left")[0];
@@ -23,7 +23,9 @@ const Header = () => {
         gateLeft.style.left = value * .5 + "px";
         gateRight.style.left = value * -.5 + "px";
     }
-    window.addEventListener("scroll",f)
+
+
+    window.addEventListener("scroll",parallaxScroll)
 
     return (
         <div className="parallax">

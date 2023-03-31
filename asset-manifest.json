@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Parallax_Scrolling/static/css/main.7e6f4337.css",
+    "main.js": "/Parallax_Scrolling/static/js/main.94c83371.js",
+    "static/media/background.png": "/Parallax_Scrolling/static/media/background.6f2ef15182360f21ca6d.png",
+    "static/media/gate-right.png": "/Parallax_Scrolling/static/media/gate-right.c00c339ca1af226fa1e3.png",
+    "static/media/gate-left.png": "/Parallax_Scrolling/static/media/gate-left.5f9d266c438a9fcfbe3f.png",
+    "static/media/grass.png": "/Parallax_Scrolling/static/media/grass.999c36c8a6da078e2282.png",
+    "static/media/tree-left.png": "/Parallax_Scrolling/static/media/tree-left.75f3c4d8d8ebfa5ba5c8.png",
+    "static/media/tree-right.png": "/Parallax_Scrolling/static/media/tree-right.164009595f52d3910b54.png",
+    "index.html": "/Parallax_Scrolling/index.html",
+    "main.7e6f4337.css.map": "/Parallax_Scrolling/static/css/main.7e6f4337.css.map",
+    "main.94c83371.js.map": "/Parallax_Scrolling/static/js/main.94c83371.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e6f4337.css",
+    "static/js/main.94c83371.js"
+  ]
+}
